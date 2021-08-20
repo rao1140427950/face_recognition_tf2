@@ -132,7 +132,7 @@ ID:85721 Embedding done.
 ```
 Then we get the matrix showing the similarity of the 400 embedded test images: 
 
-!credit(https://github.com/rao1140427950/face_recognition_tf2/blob/master/results/similarity.png?raw=true)
+![image](https://github.com/rao1140427950/face_recognition_tf2/blob/master/results/similarity.png?raw=true)
 
 - Note: The number of test samples and test IDs can be modified in embd_images.py
 
