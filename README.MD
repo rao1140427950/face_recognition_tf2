@@ -9,10 +9,10 @@ in Keras and is easy to use.
 - matplotlib~=3.4.1
 - opencv-python~=4.5.2.54
 - tensorflow~=2.4.1
-- bcolz~=1.2.1 (Evaluation only)
-- tqdm~=4.62.0 (Evaluation only)
-- sklearn~=0.0 (Evaluation only)
-- scikit-learn~=0.24.2 (Evaluation only)
+- bcolz~=1.2.1 (For evaluation only)
+- tqdm~=4.62.0 (For evaluation only)
+- sklearn~=0.0 (For evaluation only)
+- scikit-learn~=0.24.2 (For evaluation only)
 
 ## Usage
 
