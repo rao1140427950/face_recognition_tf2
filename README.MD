@@ -69,7 +69,7 @@ evaluation. Downloads these datasets and
 then extract them to `/path/to/your/test/dataset/dir`. These testing data are already binary files, so it's not 
 necessary to do any preprocessing. The directory structure should be like bellow.
 ```
-/your/path/to/test_dataset/
+/path/to/your/test/dataset/dir/
     -> lfw_align_112/lfw
         -> data/
         -> meta/
