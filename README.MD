@@ -146,10 +146,10 @@ Evaluation results (%) of different backbones and configurations are shown below
 
 | Backbone | Head | CCrop | embd_shape | LFW | AgeDB-30 | CFP-FP | Checkpoint |
 |----------|------|-------|------------|-----|----------|--------|------------|
-| ResNet50 | ArcFace | False | 256 | 99.35, 1.19 | 95.03, 1.37  |  90.36, 1.54   | [GoogleDrive](https://drive.google.com/file/d/1VCknt0BG7NXb4Jry--NMW-q2bWra9O1j/view?usp=sharing) |
-| ResNet50 | ArcFace | True  | 256 | 98.97, 1.26 | 93.03, 1.44  |  90.26, 1.55   | [GoogleDrive](https://drive.google.com/file/d/1VCknt0BG7NXb4Jry--NMW-q2bWra9O1j/view?usp=sharing) |
-| MobileNetV2 | ArcFace | False  | 256 | 98.73, 1.29 | 89.22, 1.36  |  90.96, 1.49   | [GoogleDrive](https://drive.google.com/file/d/1plu40JoiaXK1QTL1TecumuTbQT-YCmyA/view?usp=sharing) |
-| MobileNetV2 | ArcFace | True  | 256 | 98.95, 1.23 | 90.98, 1.38  |  91.63, 1.45   | [GoogleDrive](https://drive.google.com/file/d/1plu40JoiaXK1QTL1TecumuTbQT-YCmyA/view?usp=sharing) |
+| ResNet50 | ArcFace | False | 256 | 99.35 | 95.03  |  90.36   | [GoogleDrive](https://drive.google.com/file/d/1VCknt0BG7NXb4Jry--NMW-q2bWra9O1j/view?usp=sharing) |
+| ResNet50 | ArcFace | True  | 256 | 98.97 | 93.03  |  90.26   | [GoogleDrive](https://drive.google.com/file/d/1VCknt0BG7NXb4Jry--NMW-q2bWra9O1j/view?usp=sharing) |
+| MobileNetV2 | ArcFace | False  | 256 | 98.73 | 89.22  |  90.96   | [GoogleDrive](https://drive.google.com/file/d/1plu40JoiaXK1QTL1TecumuTbQT-YCmyA/view?usp=sharing) |
+| MobileNetV2 | ArcFace | True  | 256 | 98.95 | 90.98  |  91.63   | [GoogleDrive](https://drive.google.com/file/d/1plu40JoiaXK1QTL1TecumuTbQT-YCmyA/view?usp=sharing) |
 
 - Note: Trained model weigths can be downloaded from the GoogleDrive link.
 
